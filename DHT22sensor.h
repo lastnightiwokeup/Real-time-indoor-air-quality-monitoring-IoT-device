@@ -4,13 +4,6 @@
 #include <DHT.h>
 
 class DHT22sensor {
-  private:
-    int pin;
-    DHT dht;
-    float humi;
-    float tempC;
-    float tempF;
-
   public:
     DHT22sensor(int pinNumber);
     void begin();
@@ -19,6 +12,13 @@ class DHT22sensor {
     float getHumidity();
     float getTemperatureC();
     float getTemperatureF();
+
+  private:
+    int pin;
+    DHT dht;
+    float humi;
+    float tempC;
+    float tempF;
 };
 
 #endif

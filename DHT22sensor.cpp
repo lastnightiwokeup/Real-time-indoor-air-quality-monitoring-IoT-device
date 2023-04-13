@@ -23,7 +23,6 @@ void DHT22sensor::printSerialMonitor() {
   Serial.println("F"); 
 }
 
-
 float DHT22sensor::getHumidity() {
   return humi;
 }

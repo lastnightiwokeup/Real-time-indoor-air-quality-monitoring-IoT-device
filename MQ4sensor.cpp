@@ -1,4 +1,3 @@
-
 #include "MQ4sensor.h"
 
 void MQ4sensor::setupMQ4() {
