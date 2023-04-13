@@ -2,7 +2,7 @@
 
 This is a real time Air Quality IoT Device that connects to Blynk.
 
-AirQualityIoTDevice.ino : Integrate all the sensors as a whole IoT device
+AirQualityIoTDevice.ino : Integrate all the sensors as a whole IoT device.
 
 Those .h and .cpp files are used to organize code into reusable libraries or modules. 
 The .h file is the header file that contains declarations of functions, variables, and constants that are used by the library.
