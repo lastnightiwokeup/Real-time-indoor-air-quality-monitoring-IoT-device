@@ -1,6 +1,6 @@
-# Arduino-Air-Quality-IoT-device
+# Arduino-Air-Quality-IoT-Device
 
-All the sensors are developed using Arduino.
+This is a real time Air Quality IoT Device that connects to Blynk.
 
 AirQualityIoTDevice.ino : Integrate all the sensors as a whole IoT device
 
@@ -21,3 +21,4 @@ Microcontroller ： ESP32
 OLED Display : SSD1306
 
 IoT Platform : Blynk
+IDE : Arduino
