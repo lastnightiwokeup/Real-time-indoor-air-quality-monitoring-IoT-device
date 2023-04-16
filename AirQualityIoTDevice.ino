@@ -68,7 +68,7 @@ void sensorDataSend()
 }
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(9600);
   dht22.begin();
   mq4sensor.setupMQ4();
   mq135sensor.setupMQ135();
