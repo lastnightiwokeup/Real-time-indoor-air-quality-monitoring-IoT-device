@@ -24,8 +24,8 @@
 #define BLYNK_TEMPLATE_NAME "Air Quality IoT Device"
 
 char auth[] = "9EvktN40KlCG3HOjOUeZcgKQx5Fmu43A";
-char ssid[] = "Chisinb";
-char pass[] = "32145577";
+char ssid[] = "wifi_ssid";
+char pass[] = "wifi_password";
 
 BlynkTimer timer;
 
