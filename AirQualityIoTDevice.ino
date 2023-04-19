@@ -137,7 +137,7 @@ void updateSensorData() {
 void updateOledDisplay() {
   static int oledState = 0;
   static unsigned long previousMillis = 0;
-  const unsigned long interval = 500; // Delay of 1 second
+  const unsigned long interval = 500; 
 
   unsigned long currentMillis = millis();
 
@@ -209,7 +209,7 @@ void logBlynkEvent() {
     Blynk.logEvent("co2_alert", String("High CO2 Detected!"));     
   }
 
-   if (sensorValue > 500) {
+   if (sensorValue > 1000) {
     Blynk.logEvent("methane_alert", String("Methane concentration is too HIGH!"));
    }
 
