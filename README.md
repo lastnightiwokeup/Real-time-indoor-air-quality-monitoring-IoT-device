@@ -30,4 +30,4 @@ OLED Display : SSD1306
 
 IoT Platform : Blynk
 
-IDE : Arduinoo
+IDE : Arduino
