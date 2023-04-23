@@ -20,9 +20,9 @@ void MySGP30::measureAirQuality() {
 
 void MySGP30::printSerialMonitor() {
   Serial.print("CO2: ");
-  Serial.print(sgp30.CO2);
+  Serial.print(CO2);
   Serial.print(" ppm\tTVOC: ");
-  Serial.print(sgp30.TVOC);
+  Serial.print(TVOC);
   Serial.println(" ppb");
 }
 
