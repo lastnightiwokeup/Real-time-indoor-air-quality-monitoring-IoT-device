@@ -5,8 +5,8 @@ Buzzer::Buzzer(unsigned int duration, float minHum, float maxHum) {
   buzzerOn = false;
   buzzerStartTime = 0;
   buzzerDuration = duration;
-  minHumidity = minHum;
-  maxHumidity = maxHum;
+  minHumidity = 50;
+  maxHumidity = 70;
   pinMode(BUZZER_PIN, OUTPUT);
 }
 
