@@ -1,3 +1,5 @@
+// Author: Connie Leung
+
 #include "pms7003.h"
 
 PMS7003::PMS7003(int rxPin, int txPin) : pms7003(rxPin, txPin), pm1(0), pm2_5(0), pm10(0) {}
