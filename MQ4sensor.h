@@ -1,3 +1,5 @@
+// Author: Connie Leung
+
 #ifndef MQ4SENSOR_H
 #define MQ4SENSOR_H
 
