@@ -1,3 +1,5 @@
+// Author: Connie Leung
+
 #include "mySGP30.h"
 
 MySGP30::MySGP30() {
