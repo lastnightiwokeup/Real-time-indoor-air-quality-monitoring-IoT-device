@@ -1,3 +1,4 @@
+// Author: Connie Leung
 #include "Buzzer.h"
 #include "Arduino.h"
 
