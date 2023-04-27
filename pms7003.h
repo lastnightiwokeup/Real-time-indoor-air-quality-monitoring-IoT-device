@@ -1,3 +1,5 @@
+// Author: Connie Leung
+
 #ifndef PMS7003_H
 #define PMS7003_H
 
