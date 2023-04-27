@@ -1,3 +1,5 @@
+// Author: Connie Leung
+
 #include "OLED.h"
 const int MQ4_LED_pin = 13;
 const int MQ135_LED_pin = 12;
