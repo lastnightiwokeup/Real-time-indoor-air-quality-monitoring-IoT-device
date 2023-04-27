@@ -1,3 +1,5 @@
+// Author: Connie Leung
+
 #include "MQ135sensor.h"
 
 void MQ135sensor::setupMQ135() {
