@@ -1,3 +1,5 @@
+// Author: Connie Leung
+
 #ifndef MQ135SENSOR_H
 #define MQ135SENSOR_H
 
