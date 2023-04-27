@@ -1,3 +1,5 @@
+// Author: Connie Leung
+
 #ifndef DHT22SENSOR_H
 #define DHT22SENSOR_H
 
