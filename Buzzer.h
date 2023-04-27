@@ -1,3 +1,5 @@
+// Author: Connie Leung
+
 #ifndef BUZZER_H
 #define BUZZER_H
 
