@@ -1,6 +1,7 @@
 # Arduino-Air-Quality-IoT-Device
 A school project on developing a ESP32 Real Time indoor air quality monitoring IoT device using Arduino.
 
+Project title: Real time indoor air quality monitoring IoT device
 
 Author: Connie Leung
 
