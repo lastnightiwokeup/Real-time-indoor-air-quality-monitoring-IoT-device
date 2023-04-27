@@ -1,3 +1,5 @@
+// Author: Connie Leung
+
 #include "DHT22sensor.h"
 
 DHT22sensor::DHT22sensor(int pinNumber) : pin(pinNumber), dht(pinNumber, DHT22) {}
