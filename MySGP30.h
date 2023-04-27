@@ -1,3 +1,5 @@
+// Author: Connie Leung
+
 #ifndef MY_SGP30_H
 #define MY_SGP30_H
 
