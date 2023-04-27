@@ -1,3 +1,5 @@
+// Author: Connie Leung
+
 #ifndef OLED_H
 #define OLED_H
 
